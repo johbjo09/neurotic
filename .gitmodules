@@ -1,0 +1,3 @@
+[submodule "include/easywsclient"]
+	path = include/easywsclient
+	url = https://github.com/dhbaird/easywsclient
